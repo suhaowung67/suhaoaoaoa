@@ -1,0 +1,267 @@
+{
+  "vocabulary": [
+    {
+      "id": "v-1",
+      "hanzi": "一",
+      "pinyin": "yī",
+      "meaning": "Satu",
+      "category": "Angka",
+      "exampleZh": "一加一等于二。",
+      "examplePinyin": "yī jiā yī děngyú èr.",
+      "exampleId": "Satu tambah satu sama dengan dua."
+    },
+    {
+      "id": "v-2",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "meaning": "Orang / Manusia",
+      "category": "Sosial",
+      "exampleZh": "他是一个好人。",
+      "examplePinyin": "tā shì yī gè hǎo rén.",
+      "exampleId": "Dia adalah orang baik."
+    },
+    {
+      "id": "v-3",
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "meaning": "Mulut / Pintu masuk / Kata penggolong anggota keluarga",
+      "category": "Anggota Tubuh",
+      "exampleZh": "我家有四口人。",
+      "examplePinyin": "wǒ jiā yǒu sì kǒu rén.",
+      "exampleId": "Keluarga saya memiliki empat orang anggota."
+    },
+    {
+      "id": "v-4",
+      "hanzi": "日",
+      "pinyin": "rì",
+      "meaning": "Hari / Matahari",
+      "category": "Alam",
+      "exampleZh": "今天是星期日。",
+      "examplePinyin": "jīntiān - shì xīngqīrì.",
+      "exampleId": "Hari ini adalah hari Minggu."
+    },
+    {
+      "id": "v-5",
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "meaning": "Bulan",
+      "category": "Alam",
+      "exampleZh": "今晚的月亮很圆。",
+      "examplePinyin": "jīnwǎn de yuèliang hěn yuán.",
+      "exampleId": "Bulan malam ini sangat bulat."
+    },
+    {
+      "id": "v-6",
+      "hanzi": "山",
+      "pinyin": "shān",
+      "meaning": "Gunung",
+      "category": "Alam",
+      "exampleZh": "富士山在日本。",
+      "examplePinyin": "fùshìshān zài rìběn.",
+      "exampleId": "Gunung Fuji berada di Jepang."
+    },
+    {
+      "id": "v-7",
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "meaning": "Air",
+      "category": "Alam",
+      "exampleZh": "请给我一杯水。",
+      "examplePinyin": "qǐng gěi wǒ yī bēi shuǐ.",
+      "exampleId": "Tolong beri saya segelas air."
+    },
+    {
+      "id": "v-8",
+      "hanzi": "火",
+      "pinyin": "huǒ",
+      "meaning": "Api",
+      "category": "Alam",
+      "exampleZh": "不要玩火。",
+      "examplePinyin": "bùyào wán huǒ.",
+      "exampleId": "Jangan bermain api."
+    },
+    {
+      "id": "v-9",
+      "hanzi": "木",
+      "pinyin": "mù",
+      "meaning": "Kayu / Pohon",
+      "category": "Alam",
+      "exampleZh": "这张桌子是木头做的。",
+      "examplePinyin": "zhè zhāng zhuōzi - shì mùtou zuò de.",
+      "exampleId": "Meja ini terbuat dari kayu."
+    },
+    {
+      "id": "v-10",
+      "hanzi": "土",
+      "pinyin": "tǔ",
+      "meaning": "Tanah / Bumi",
+      "category": "Alam",
+      "exampleZh": "花盆里有红色的土。",
+      "examplePinyin": "huāpén lǐ yǒu hóngsè de tǔ.",
+      "exampleId": "Di dalam pot bunga ada tanah berwarna merah."
+    },
+    {
+      "id": "v-11",
+      "hanzi": "谢谢",
+      "pinyin": "xièxie",
+      "meaning": "Terima kasih",
+      "category": "Sosial",
+      "exampleZh": "谢谢你的帮助！",
+      "examplePinyin": "xièxie nǐ de bāngzhù!",
+      "exampleId": "Terima kasih atas bantuanmu!"
+    },
+    {
+      "id": "v-12",
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "meaning": "Sampai jumpa",
+      "category": "Sosial",
+      "exampleZh": "老师，再见！",
+      "examplePinyin": "lǎoshī, zàijiàn!",
+      "exampleId": "Sampai jumpa, Guru!"
+    },
+    {
+      "id": "v-13",
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "meaning": "Apel",
+      "category": "Makanan",
+      "exampleZh": "我每天吃一个苹果。",
+      "examplePinyin": "wǒ měitiān chī yī gè píngguǒ.",
+      "exampleId": "Saya makan sebuah apel setiap hari."
+    },
+    {
+      "id": "v-14",
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "meaning": "Guru",
+      "category": "Sekolah",
+      "exampleZh": "我们的老师非常好。",
+      "examplePinyin": "wǒmen de lǎoshī fēicháng hǎo.",
+      "exampleId": "Guru kami sangat baik."
+    },
+    {
+      "id": "v-15",
+      "hanzi": "学生",
+      "pinyin": "xuéshēng",
+      "meaning": "Siswa / Murid",
+      "category": "Sekolah",
+      "exampleZh": "他是一个聪明的学生。",
+      "examplePinyin": "tā - shì yī gè cōngmíng de xuéshēng.",
+      "exampleId": "Dia adalah seorang siswa yang cerdas."
+    },
+    {
+      "id": "v-16",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "meaning": "Rumah / Keluarga",
+      "category": "Keluarga",
+      "exampleZh": "我爱我的家。",
+      "examplePinyin": "wǒ ài wǒ de jiā.",
+      "exampleId": "Saya mencintai keluarga/rumah saya."
+    }
+  ],
+  "reading": [
+    {
+      "id": "r-1",
+      "title": "Perkenalan Diri (自我介绍)",
+      "category": "Pemula",
+      "contentZh": "你好！我叫王小明。我是学生。我今年十八岁。我喜欢学习汉语。汉语很有趣！我是中国人，我的家在北京。我有一个姐姐和一个弟弟。我爱我的家人。",
+      "translation": "Halo! Nama saya Wang Xiaoming. Saya adalah siswa. Umur saya delapan belas tahun tahun ini. Saya suka belajar bahasa Mandarin. Bahasa Mandarin sangat menyenangkan! Saya orang Tiongkok, rumah saya di Beijing. Saya memiliki satu kakak perempuan dan satu adik laki-laki. Saya menyayangi keluarga saya.",
+      "words": [
+        { "hanzi": "自我介绍", "pinyin": "zìwǒ jièshào", "meaning": "perkenalan diri" },
+        { "hanzi": "学生", "pinyin": "xuéshēng", "meaning": "siswa" },
+        { "hanzi": "学习", "pinyin": "xuéxí", "meaning": "belajar" },
+        { "hanzi": "汉语", "pinyin": "hànyǔ", "meaning": "bahasa Mandarin" },
+        { "hanzi": "有趣", "pinyin": "yǒuqù", "meaning": "menarik / menyenangkan" },
+        { "hanzi": "北京", "pinyin": "Běijīng", "meaning": "Beijing" },
+        { "hanzi": "姐姐", "pinyin": "jiějie", "meaning": "kakak perempuan" },
+        { "hanzi": "弟弟", "pinyin": "dìdi", "meaning": "adik laki-laki" },
+        { "hanzi": "家人", "pinyin": "jiārén", "meaning": "keluarga" }
+      ]
+    },
+    {
+      "id": "r-2",
+      "title": "Keluarga Saya (我的家)",
+      "category": "Pemula",
+      "contentZh": "这是我的家。我家有五口人：爸爸、妈妈、哥哥、妹妹和我。我爸爸是老师，他工作很忙。我妈妈不工作，她是家庭主妇。我哥哥是大学生，我妹妹是小学生。在我们家有一只小狗，它叫小白。小白很可爱，我们都很喜欢它。",
+      "translation": "Ini adalah rumah saya. Keluarga saya memiliki lima orang: Ayah, Ibu, Kakak laki-laki, Adik perempuan, dan saya. Ayah saya adalah guru, dia sangat sibuk bekerja. Ibu saya tidak bekerja, dia adalah ibu rumah tangga. Kakak laki-laki saya adalah mahasiswa, adik perempuan saya adalah siswa sekolah dasar. Di rumah kami ada seekor anjing kecil, namanya Xiao Bai (Putih Kecil). Xiao Bai sangat lucu, kami semua sangat menyukainya.",
+      "words": [
+        { "hanzi": "爸爸", "pinyin": "bàba", "meaning": "ayah" },
+        { "hanzi": "妈妈", "pinyin": "māma", "meaning": "ibu" },
+        { "hanzi": "哥哥", "pinyin": "gēge", "meaning": "kakak laki-laki" },
+        { "hanzi": "妹妹", "pinyin": "mèimei", "meaning": "adik perempuan" },
+        { "hanzi": "家庭主妇", "pinyin": "jiātíng zhǔfù", "meaning": "ibu rumah tangga" },
+        { "hanzi": "大学生", "pinyin": "dàxuéshēng", "meaning": "mahasiswa" },
+        { "hanzi": "狗", "pinyin": "gǒu", "meaning": "anjing" },
+        { "hanzi": "可爱", "pinyin": "kě'ài", "meaning": "lucu / imut" }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "id": "t-1",
+      "type": "pinyin",
+      "question": "Apa pinyin dari karakter ini?",
+      "hanzi": "老师",
+      "correctAnswer": "laoshi",
+      "meaning": "Guru"
+    },
+    {
+      "id": "t-2",
+      "type": "pinyin",
+      "question": "Apa pinyin dari karakter ini?",
+      "hanzi": "苹果",
+      "correctAnswer": "pingguo",
+      "meaning": "Apel"
+    },
+    {
+      "id": "t-3",
+      "type": "pinyin",
+      "question": "Apa pinyin dari karakter ini?",
+      "hanzi": "谢谢",
+      "correctAnswer": "xiexie",
+      "meaning": "Terima kasih"
+    },
+    {
+      "id": "t-4",
+      "type": "pinyin",
+      "question": "Apa pinyin dari karakter ini?",
+      "hanzi": "再见",
+      "correctAnswer": "zaijian",
+      "meaning": "Sampai jumpa"
+    },
+    {
+      "id": "t-5",
+      "type": "hanzi",
+      "question": "Tulis karakter Hanzi untuk arti kata berikut:",
+      "meaning": "Saya / Aku",
+      "pinyin": "wǒ",
+      "correctAnswer": "我"
+    },
+    {
+      "id": "t-6",
+      "type": "hanzi",
+      "question": "Tulis karakter Hanzi untuk arti kata berikut:",
+      "meaning": "Orang / Manusia",
+      "pinyin": "rén",
+      "correctAnswer": "人"
+    },
+    {
+      "id": "t-7",
+      "type": "hanzi",
+      "question": "Tulis karakter Hanzi untuk arti kata berikut:",
+      "meaning": "Gunung",
+      "pinyin": "shān",
+      "correctAnswer": "山"
+    },
+    {
+      "id": "t-8",
+      "type": "hanzi",
+      "question": "Tulis karakter Hanzi untuk arti kata berikut:",
+      "meaning": "Air",
+      "pinyin": "shuǐ",
+      "correctAnswer": "水"
+    }
+  ]
+}
